@@ -1,10 +1,10 @@
-### Hi, I'm Malwandla 👋
+### Hi, I'm Malwandla 
 
 I'm a final-year **Diploma in ICT (Applications Development)** student at the
 University of Mpumalanga, based in Pretoria. I build apps that are deployed,
 tested and secured.
 
-🔭 **Open to 2027 graduate programmes, internships and junior roles** in
+ **Open to 2027 graduate programmes, internships and junior roles** in
 software development, Android or databases.
 
 ---
@@ -30,6 +30,6 @@ software development, Android or databases.
 
 ---
 
-📫 [Portfolio and CVs](https://malwandla21-ict.github.io/MH-Profile/) ·
+[Portfolio and CVs](https://malwandla21-ict.github.io/MH-Profile/) ·
 [LinkedIn](https://www.linkedin.com/in/malwandla-hlongwane-8484603a3) ·
 MalwandlaHlongwaneICT@outlook.com
